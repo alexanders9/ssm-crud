@@ -1,0 +1,14 @@
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\controller\DepartmentController.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\service\DepartmentService.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\test\MBGTest.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\test\MVCTest.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\controller\EmployeeController.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\bean\Msg.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\test\MapperTest.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\bean\EmployeeExample.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\service\EmployeeService.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\bean\Employee.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\dao\DepartmentMapper.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\dao\EmployeeMapper.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\bean\Department.java
+D:\workspace\SSM\ssm-crud\src\main\java\com\jds\crud\bean\DepartmentExample.java
